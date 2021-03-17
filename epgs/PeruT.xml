@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E (A&amp;E)">
+    <display-name lang="es">A&amp;E (A&amp;E)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="A&amp;E HD (A&amp;E HD)">
+    <display-name lang="es">A&amp;E HD (A&amp;E HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ANIMAL PLANET HD (Animal Planet HD)">
+    <display-name lang="es">ANIMAL PLANET HD (Animal Planet HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ANTENA3 (Antena3)">
+    <display-name lang="es">ANTENA3 (Antena3)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518949_E921DB62227C95EB.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ARTV (ARTV)">
+    <display-name lang="es">ARTV (ARTV)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/05/61/5618887_E611868F7E49AB2B.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="AXN (Axn)">
+    <display-name lang="es">AXN (Axn)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="AXN HD (AXNHD)">
+    <display-name lang="es">AXN HD (AXNHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="BOOMERANG (Boomerang)">
+    <display-name lang="es">BOOMERANG (Boomerang)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="CARTOON NETWORK (CartoonNetwork)">
+    <display-name lang="es">CARTOON NETWORK (CartoonNetwork)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="Cartoon Network HD (Cartoon Network HD)">
+    <display-name lang="es">Cartoon Network HD (Cartoon Network HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="CINECANAL (Cinecanal)">
+    <display-name lang="es">CINECANAL (Cinecanal)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="CINECANAL HD (Cinecanal HD)">
+    <display-name lang="es">CINECANAL HD (Cinecanal HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="CINEMAX HD (CinemaxHD)">
+    <display-name lang="es">CINEMAX HD (CinemaxHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="CNN ESPAÑOL (CNNEsp)">
+    <display-name lang="es">CNN ESPAÑOL (CNNEsp)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="CNN INTERNACIONAL (CNNInt)">
+    <display-name lang="es">CNN INTERNACIONAL (CNNInt)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="COMEDY CENTRAL HD (ComedyCentralHD)">
+    <display-name lang="es">COMEDY CENTRAL HD (ComedyCentralHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="DEUTSCHE WELLE (DW)">
+    <display-name lang="es">DEUTSCHE WELLE (DW)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718045_E5191A2E17B29B03.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL (Disc.Channel)">
+    <display-name lang="es">DISCOVERY CHANNEL (Disc.Channel)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="DISCOVERY HD (DiscoveryHD)">
+    <display-name lang="es">DISCOVERY HD (DiscoveryHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="DISCOVERY HD THEATER (Disc.TheaterHD)">
+    <display-name lang="es">DISCOVERY HD THEATER (Disc.TheaterHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="DISCOVERY HOME &amp; GARDEN (HomeGarden)">
+    <display-name lang="es">DISCOVERY HOME &amp; GARDEN (HomeGarden)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="DISNEY CHANNEL HD (DisneyHD)">
+    <display-name lang="es">DISNEY CHANNEL HD (DisneyHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="DISNEY JUNIOR (DisneyJunior)">
+    <display-name lang="es">DISNEY JUNIOR (DisneyJunior)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="E! ENTERTAINMENT (E!)">
+    <display-name lang="es">E! ENTERTAINMENT (E!)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="EL TRECE (ElTrece)">
+    <display-name lang="es">EL TRECE (ElTrece)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/16/6160802_97DB3A21A9416C13.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ENLACE TBN (Enlace)">
+    <display-name lang="es">ENLACE TBN (Enlace)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726444_D21DDB643F3506E9.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ESPN 2 (ESPN2)">
+    <display-name lang="es">ESPN 2 (ESPN2)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ESPN 2 (ESPN2 Peru)">
+    <display-name lang="es">ESPN 2 (ESPN2 Peru)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ESPN 3 HD (ESPN 3 HD)">
+    <display-name lang="es">ESPN 3 HD (ESPN 3 HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ESPN EXTRA HD (ESPN EXTRA HD)">
+    <display-name lang="es">ESPN EXTRA HD (ESPN EXTRA HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ESPN HD (ESPN HD)">
+    <display-name lang="es">ESPN HD (ESPN HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="EUROCHANNEL (Eurochannel)">
+    <display-name lang="es">EUROCHANNEL (Eurochannel)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726504_567DA819240ABA02.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOOD NETWORK (Food Network)">
+    <display-name lang="es">FOOD NETWORK (Food Network)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX CHANNEL (Fox Channel)">
+    <display-name lang="es">FOX CHANNEL (Fox Channel)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX CLASSICS (FoxClassics)">
+    <display-name lang="es">FOX CLASSICS (FoxClassics)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX COMEDY (FoxComedy)">
+    <display-name lang="es">FOX COMEDY (FoxComedy)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519099_57B023660CDB6133.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX COMEDY HD (FoxComedyHD)">
+    <display-name lang="es">FOX COMEDY HD (FoxComedyHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX FAMILY HD (FoxFamilyHD)">
+    <display-name lang="es">FOX FAMILY HD (FoxFamilyHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX LIFE (FoxLife)">
+    <display-name lang="es">FOX LIFE (FoxLife)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX PREMIUM ACTION HD (FoxActionHD)">
+    <display-name lang="es">FOX PREMIUM ACTION HD (FoxActionHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX PREMIUM CINEMA HD (Fox Cinema HD)">
+    <display-name lang="es">FOX PREMIUM CINEMA HD (Fox Cinema HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX PREMIUM MOVIES HD (FoxMoviesHD)">
+    <display-name lang="es">FOX PREMIUM MOVIES HD (FoxMoviesHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX SERIES (Fox1)">
+    <display-name lang="es">FOX SERIES (Fox1)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519098_99D42C546D72E9F3.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX SERIES HD (FoxSeriesHD)">
+    <display-name lang="es">FOX SERIES HD (FoxSeriesHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX SPORTS 2 (FoxSports2)">
+    <display-name lang="es">FOX SPORTS 2 (FoxSports2)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512315_D10000FAD4D97B7A.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD (FoxSports2HD)">
+    <display-name lang="es">FOX SPORTS 2 HD (FoxSports2HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX SPORTS 3 (FoxSports3)">
+    <display-name lang="es">FOX SPORTS 3 (FoxSports3)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512317_5D426D156AAE9D2E.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX SPORTS 3 HD (FoxSports3HD)">
+    <display-name lang="es">FOX SPORTS 3 HD (FoxSports3HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX SPORTS HD (FoxSportsHD)">
+    <display-name lang="es">FOX SPORTS HD (FoxSportsHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FOX SPORTS PREMIUM (FoxSportsPrem)">
+    <display-name lang="es">FOX SPORTS PREMIUM (FoxSportsPrem)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512496_E2BBA15B3A9F3AC4.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FX (FX)">
+    <display-name lang="es">FX (FX)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FX HD (FX HD)">
+    <display-name lang="es">FX HD (FX HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FXM (FX Movie)">
+    <display-name lang="es">FXM (FX Movie)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512490_F36F99ED6681E4E5.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="FXM REGIONAL OTT (FX Movies DTH)">
+    <display-name lang="es">FXM REGIONAL OTT (FX Movies DTH)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="GLOBAL (RED TV)">
+    <display-name lang="es">GLOBAL (RED TV)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527701_F4464E37646C28E3.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="GOL PERU HD (GOL PERU HD)">
+    <display-name lang="es">GOL PERU HD (GOL PERU HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="GOL TV (GolTV)">
+    <display-name lang="es">GOL TV (GolTV)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/68/6689767_3296E2A3B5FDAA60.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="GOL TV HD (GolTV HD)">
+    <display-name lang="es">GOL TV HD (GolTV HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="GOLF CHANNEL (GolfChannel)">
+    <display-name lang="es">GOLF CHANNEL (GolfChannel)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718049_A4DF550FA0F31286.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="GOLPERU (GOLPERU)">
+    <display-name lang="es">GOLPERU (GOLPERU)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553956_D7D9A30FB187AF45.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="GOLPERU HD (GOLPERU HD)">
+    <display-name lang="es">GOLPERU HD (GOLPERU HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO 2 HD (HBO 2 HD)">
+    <display-name lang="es">HBO 2 HD (HBO 2 HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO FAMILY HD (HBO Family HD)">
+    <display-name lang="es">HBO FAMILY HD (HBO Family HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO HD (HBOHD)">
+    <display-name lang="es">HBO HD (HBOHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO MUNDI (HBO Mundi)">
+    <display-name lang="es">HBO MUNDI (HBO Mundi)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO PLUS ESTE HD (HBO Plus Este HD)">
+    <display-name lang="es">HBO PLUS ESTE HD (HBO Plus Este HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO POP (HBOPOP)">
+    <display-name lang="es">HBO POP (HBOPOP)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO SIGNATURE HD (HBO Signature HD)">
+    <display-name lang="es">HBO SIGNATURE HD (HBO Signature HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO XTREME (HBO Xtreme)">
+    <display-name lang="es">HBO XTREME (HBO Xtreme)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO XTREME HD (HBO Xtreme HD)">
+    <display-name lang="es">HBO XTREME HD (HBO Xtreme HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HISTORY 2 HD (H2 HD)">
+    <display-name lang="es">HISTORY 2 HD (H2 HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HISTORY CHANNEL (History)">
+    <display-name lang="es">HISTORY CHANNEL (History)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523541_39FEFBD81BFBED5F.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HISTORY CHANNEL HD (HistoryHD)">
+    <display-name lang="es">HISTORY CHANNEL HD (HistoryHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HOME &amp; HEALTH (Home&amp;Health)">
+    <display-name lang="es">HOME &amp; HEALTH (Home&amp;Health)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523671_FDDA58C41643809E.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HOME &amp; HEALTH HD (Home&amp;HealthHD)">
+    <display-name lang="es">HOME &amp; HEALTH HD (Home&amp;HealthHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HTV (HTV)">
+    <display-name lang="es">HTV (HTV)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ID HD - INVESTIGATION DISCOVERY HD (Invest.DiscoveryHD)">
+    <display-name lang="es">ID HD - INVESTIGATION DISCOVERY HD (Invest.DiscoveryHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="INVESTIGATION DISCOVERY (Invest. Discovery)">
+    <display-name lang="es">INVESTIGATION DISCOVERY (Invest. Discovery)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="LIFETIME (Lifetime)">
+    <display-name lang="es">LIFETIME (Lifetime)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="M DEPORTES (M Deportes)">
+    <display-name lang="es">M DEPORTES (M Deportes)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718160_BE424D8C4C1AA0DF.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="M DEPORTES HD (M Deportes HD)">
+    <display-name lang="es">M DEPORTES HD (M Deportes HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="M PLUS (M Plus)">
+    <display-name lang="es">M PLUS (M Plus)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718168_EF5EE18D14637ABA.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="M PLUS HD (M Plus HD)">
+    <display-name lang="es">M PLUS HD (M Plus HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="MOVISTAR EVENTOS (Movistar Eventos)">
+    <display-name lang="es">MOVISTAR EVENTOS (Movistar Eventos)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="MTV (MTV)">
+    <display-name lang="es">MTV (MTV)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="MTV HD (MTVHD)">
+    <display-name lang="es">MTV HD (MTVHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="MTV HITS (MTVHits)">
+    <display-name lang="es">MTV HITS (MTVHits)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532873_1E8DF5CC436F67D2.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="NAT GEO (NatGeo)">
+    <display-name lang="es">NAT GEO (NatGeo)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="NAT GEO HD (Nat Geo HD)">
+    <display-name lang="es">NAT GEO HD (Nat Geo HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="NAT GEO KIDS (Nat Geo Kids)">
+    <display-name lang="es">NAT GEO KIDS (Nat Geo Kids)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="NAT GEO WILD HD (NatGeoWild)">
+    <display-name lang="es">NAT GEO WILD HD (NatGeoWild)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523539_B3C432423060C4EC.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="NAT GEO WILD HD (NatGeoWildHD)">
+    <display-name lang="es">NAT GEO WILD HD (NatGeoWildHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="NHK (NHK)">
+    <display-name lang="es">NHK (NHK)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532750_792CB8580A072124.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="NICK HD (NickHD)">
+    <display-name lang="es">NICK HD (NickHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="NICK JR OTT (Nick Jr)">
+    <display-name lang="es">NICK JR OTT (Nick Jr)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="NICKELODEON (Nickelodeon)">
+    <display-name lang="es">NICKELODEON (Nickelodeon)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ORBE 21 (Orbe21)">
+    <display-name lang="es">ORBE 21 (Orbe21)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726538_D7C022C7FC53D22F.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="PARAMOUNT (Paramount)">
+    <display-name lang="es">PARAMOUNT (Paramount)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="PARAMOUNT HD (Paramount HD)">
+    <display-name lang="es">PARAMOUNT HD (Paramount HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="PLAYBOY (Playboy)">
+    <display-name lang="es">PLAYBOY (Playboy)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6552800_80D2091BB6E9CEA1.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="PLAYBOY HD (PlayboyHD)">
+    <display-name lang="es">PLAYBOY HD (PlayboyHD)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6552800_80D2091BB6E9CEA1.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="QUALITY CHANNEL (Quality)">
+    <display-name lang="es">QUALITY CHANNEL (Quality)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527922_07A7ABD3E27852B5.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="SEXTREME (Sextreme)">
+    <display-name lang="es">SEXTREME (Sextreme)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/31/7317967_6C10BD45ECBD32D9.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="SONY (Sony)">
+    <display-name lang="es">SONY (Sony)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="SPACE (Space)">
+    <display-name lang="es">SPACE (Space)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="SPACE REGIONAL DTH LIVE (Space HD)">
+    <display-name lang="es">SPACE REGIONAL DTH LIVE (Space HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL (Studio Universal)">
+    <display-name lang="es">STUDIO UNIVERSAL (Studio Universal)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL HD (StudioHD)">
+    <display-name lang="es">STUDIO UNIVERSAL HD (StudioHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="SYFY (SyFy)">
+    <display-name lang="es">SYFY (SyFy)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/59/6590544_ECEF722938480E4B.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TBS VERY FUNNY (TBS)">
+    <display-name lang="es">TBS VERY FUNNY (TBS)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518953_3E6DEA309E2566B2.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TBS VERY FUNNY HD (TBS Very Funny HD)">
+    <display-name lang="es">TBS VERY FUNNY HD (TBS Very Funny HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TCM (TCM)">
+    <display-name lang="es">TCM (TCM)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TELEMUNDO (Telemundo)">
+    <display-name lang="es">TELEMUNDO (Telemundo)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TELESUR (Telesur)">
+    <display-name lang="es">TELESUR (Telesur)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6714296_EC83B9DCA67A40FF.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TLC (TLC)">
+    <display-name lang="es">TLC (TLC)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TNT (TNT)">
+    <display-name lang="es">TNT (TNT)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TNT HD OTT (TNT HD)">
+    <display-name lang="es">TNT HD OTT (TNT HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TNT SERIES (TNT Series)">
+    <display-name lang="es">TNT SERIES (TNT Series)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TNT SERIES HD (TNT Series HD)">
+    <display-name lang="es">TNT SERIES HD (TNT Series HD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TOROS TV (TorosTV)">
+    <display-name lang="es">TOROS TV (TorosTV)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/64/7642019_D8035A87A9A619D3.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TRU TV (Tru TV)">
+    <display-name lang="es">TRU TV (Tru TV)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726448_E99EBCDE997DF58D.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TV CHILE (TVNChile)">
+    <display-name lang="es">TV CHILE (TVNChile)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/70/6702214_83C7F9CAB707C9A1.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TV PERU 7.3 (TV Peru 7.3)">
+    <display-name lang="es">TV PERU 7.3 (TV Peru 7.3)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TV5 (TV5)">
+    <display-name lang="es">TV5 (TV5)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532752_53138994E52B4281.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="TVE (TVE)">
+    <display-name lang="es">TVE (TVE)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6553039_6509FCDD9F33F387.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL (Universal)">
+    <display-name lang="es">UNIVERSAL CHANNEL (Universal)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL HD (UniversalHD)">
+    <display-name lang="es">UNIVERSAL CHANNEL HD (UniversalHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="USMP TV (USMP TV)">
+    <display-name lang="es">USMP TV (USMP TV)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="VENUS (Venus)">
+    <display-name lang="es">VENUS (Venus)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/31/7317969_5D76946AB9C6418B.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="VH1 HD (VH1HD)">
+    <display-name lang="es">VH1 HD (VH1HD)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693622_E2EBE53F5E6D025B.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="VOA (VOA)">
+    <display-name lang="es">VOA (VOA)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/53/7532746_A665F074DD8726E8.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="WARNER CHANNEL (Warner)">
+    <display-name lang="es">WARNER CHANNEL (Warner)</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png" />
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="WARNER CHANNEL HD (WarnerHD)">
+    <display-name lang="es">WARNER CHANNEL HD (WarnerHD)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="ZEE MUNDO (Zee Mundo)">
+    <display-name lang="es">ZEE MUNDO (Zee Mundo)</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+</tv>
